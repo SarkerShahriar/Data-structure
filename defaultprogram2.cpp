@@ -11,10 +11,7 @@ int main()
         printf("enter elements:");
         scanf("%d",&a[i]);
     }
-    /*int b;
-    printf("enter new element:");
-    scanf("%d",&b);
-    a[n]=b;*/
+    
     for(i=0;i<n;i++){
         printf("%d\n",a[i]);
     }
